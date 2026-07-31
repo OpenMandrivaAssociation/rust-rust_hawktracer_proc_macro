@@ -5,8 +5,8 @@
 %global crate rust_hawktracer_proc_macro
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        0.4.1
+Release:        1%{?dist}
 Summary:        Helper crate for hawktracer profiling library
 
 # Upstream license specification: MIT/Apache-2.0
